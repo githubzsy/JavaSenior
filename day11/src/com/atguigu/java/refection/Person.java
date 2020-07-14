@@ -1,5 +1,7 @@
 package com.atguigu.java.refection;
 
+import java.util.LinkedList;
+
 public class Person {
     private String name;
     public int age;
